@@ -22,13 +22,13 @@ class BodyForm extends StatelessWidget {
           height: MediaQuery.of(context).size.height * .342,
           padding: const EdgeInsets.all(40.0),
           decoration: BoxDecoration(
-            color: AppColors.kBase,
+            color: AppColors.kRed100,
             borderRadius: BorderRadius.only(
-              bottomRight: Radius.circular(70.r),
+              bottomRight: Radius.circular(80.r),
             ),
           ),
           child: Image.asset(
-            "assets/logo_transparente.png",
+            "assets/sivallogoblanco.png",
             width: 260.w,
           ),
         ),

@@ -4,9 +4,12 @@ class AppColors {
   static const Color kBackground = Color.fromRGBO(255, 255, 255, 1.0);
   static const Color kAppBar = Color.fromRGBO(249, 249, 251, 1.0);
   static const Color kBase = Color.fromRGBO(0, 76, 153, 1.0);
+  //static const Color kBase = Color.fromRGBO(247, 77, 88, 1);
   static const Color kPrimary = Color.fromRGBO(47, 46, 65, 1.0);
+
   static const Color kSecondary = Color.fromRGBO(147, 147, 178, 1.0);
   static const Color kRed = Color.fromRGBO(242, 64, 77, 1.0);
+  static const Color kRed100 = Color.fromRGBO(247, 77, 88, 1);
   static const Color kLine = Color.fromRGBO(230, 230, 241, 1.0);
 
   static const Color purpleCustom = Color.fromRGBO(53, 43, 200, 1);
